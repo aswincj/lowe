@@ -10,6 +10,8 @@ We are using Mysql database to store the details
 1. Install mysql workbench from https://dev.mysql.com/downloads/workbench/ 
 2. set username and password as root and 123 respectively 
 3. run the below commands in the workbench
+
+
   CREATE DATABASE `shorturl`
 
   CREATE TABLE `shorturl`.`url_table` (
