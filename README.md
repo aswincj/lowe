@@ -26,10 +26,14 @@ We are using Mysql database to store the details
 5. copy lowe/angular to your local
 6. open lowe-api folder in cmd and do "mvn clean install"; It will download all the dependencies
 7. run lowe-api as java application in eclipse
-8. open angular folder in cmd and enter the below commands one by one 
+8. open angular folder in cmd and enter the below commands one by one
+ 
     npm install -g @angular/cli
+    
     npm install
+    
     ng serve
-the sping boot application will run in http://localhost:8080/ and angular application will run in http://localhost:4200/
+    
+The sping boot application will run in http://localhost:8080/ and angular application will run in http://localhost:4200/
   
 
