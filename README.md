@@ -1,8 +1,9 @@
 # lowe
 As part of the interview I have created a url shortner Using Spring Boot and angular 8
 
-the spring boot application (lowe-api) is used to generate short url and divert the short url into the base url
-the angular application provides an interface to user to generate a short url and view the short urls created by the application and it also indicates how much many times we have used a specific url
+The spring boot application (lowe-api) is used to generate short url and divert the short url into the base url.
+
+The angular application provides an interface to user to generate a short url and view the short urls created by the application and it also indicates how much many times we have used a specific url
 
 We are using Mysql database to store the details
 
